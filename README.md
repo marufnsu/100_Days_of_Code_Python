@@ -1,1 +1,2 @@
-# 100_Days_of_Code_Python
+# 100 Days of Code with Python
+This repo contains the assignments of udemy course 100 days of code with Python.
